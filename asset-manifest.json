@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/weather-teller/static/css/main.295c3195.css",
-    "main.js": "/weather-teller/static/js/main.db8c5ee0.js",
+    "main.css": "/weather-teller/static/css/main.8c8e6eb0.css",
+    "main.js": "/weather-teller/static/js/main.e4830af0.js",
     "static/media/10n.svg": "/weather-teller/static/media/10n.ce83e6039e9cbba4224945d43214689c.svg",
     "static/media/10d.svg": "/weather-teller/static/media/10d.c6a8c9102158fd603e4ee1635f47e4d8.svg",
     "static/media/13d_n.svg": "/weather-teller/static/media/13d_n.3def4601f2072c3e6375c0052e5e1ee3.svg",
     "static/media/50d_n.svg": "/weather-teller/static/media/50d_n.35d05ae6e331c51e24400fc074d21504.svg",
     "static/media/09n.svg": "/weather-teller/static/media/09n.14b60e8f69edd7b39458e05759a90e9b.svg",
     "static/media/09d.svg": "/weather-teller/static/media/09d.97208de4d12832c9cccc23cf2cc4f327.svg",
+    "static/media/default.svg": "/weather-teller/static/media/default.e27a3950fbbc7eae6cadc08e0988ff29.svg",
     "static/media/11n.svg": "/weather-teller/static/media/11n.7c574fdf27cc3807f117bdc407c266ef.svg",
     "static/media/11d.svg": "/weather-teller/static/media/11d.d089c659f9c5a572381cdc6e51e885d2.svg",
     "static/media/04d.svg": "/weather-teller/static/media/04d.e5c455682e84fd4c8387c9ae1b7d9a5c.svg",
@@ -19,11 +20,11 @@
     "static/media/03n.svg": "/weather-teller/static/media/03n.c3f88effb95c011b2916985358aeb877.svg",
     "static/media/01d.svg": "/weather-teller/static/media/01d.1a61b6b4dd63975368d03c6b996c3e7a.svg",
     "static/media/01n.svg": "/weather-teller/static/media/01n.a7b0d48531546aa92e0b5d132cfc3152.svg",
-    "main.295c3195.css.map": "/weather-teller/static/css/main.295c3195.css.map",
-    "main.db8c5ee0.js.map": "/weather-teller/static/js/main.db8c5ee0.js.map"
+    "main.8c8e6eb0.css.map": "/weather-teller/static/css/main.8c8e6eb0.css.map",
+    "main.e4830af0.js.map": "/weather-teller/static/js/main.e4830af0.js.map"
   },
   "entrypoints": [
-    "static/css/main.295c3195.css",
-    "static/js/main.db8c5ee0.js"
+    "static/css/main.8c8e6eb0.css",
+    "static/js/main.e4830af0.js"
   ]
 }
