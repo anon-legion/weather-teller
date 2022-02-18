@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weather-teller/static/css/main.8c8e6eb0.css",
-    "main.js": "/weather-teller/static/js/main.a05f2e8f.js",
+    "main.js": "/weather-teller/static/js/main.18938ab3.js",
     "static/media/10n.svg": "/weather-teller/static/media/10n.ce83e6039e9cbba4224945d43214689c.svg",
     "static/media/10d.svg": "/weather-teller/static/media/10d.c6a8c9102158fd603e4ee1635f47e4d8.svg",
     "static/media/13d_n.svg": "/weather-teller/static/media/13d_n.3def4601f2072c3e6375c0052e5e1ee3.svg",
@@ -21,10 +21,10 @@
     "static/media/01d.svg": "/weather-teller/static/media/01d.1a61b6b4dd63975368d03c6b996c3e7a.svg",
     "static/media/01n.svg": "/weather-teller/static/media/01n.a7b0d48531546aa92e0b5d132cfc3152.svg",
     "main.8c8e6eb0.css.map": "/weather-teller/static/css/main.8c8e6eb0.css.map",
-    "main.a05f2e8f.js.map": "/weather-teller/static/js/main.a05f2e8f.js.map"
+    "main.18938ab3.js.map": "/weather-teller/static/js/main.18938ab3.js.map"
   },
   "entrypoints": [
     "static/css/main.8c8e6eb0.css",
-    "static/js/main.a05f2e8f.js"
+    "static/js/main.18938ab3.js"
   ]
 }
